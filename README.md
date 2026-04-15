@@ -112,4 +112,4 @@ LinkedIn: [prashant-chauhan-2b5a0b11](https://www.linkedin.com/in/prashant-chauh
 
 ---
 
-*This repository documents the architecture and design of the IHS platform. Implementation details are proprietary.*
+*This repository documents the architecture and design of the IHS platform. Built within a global utility & IoT enterprise environment. Implementation details are proprietary.*
