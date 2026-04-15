@@ -106,7 +106,7 @@ ihs-ai-ops-platform/
 
 ## Author
 
-**Prashant Chauhan** — Senior Cloud Architect  
+**Prashant Chauhan** — Conceptualised · Architected · Built · Deployed  
 GitHub: [@gethepc](https://github.com/gethepc)  
 LinkedIn: [prashant-chauhan-2b5a0b11](https://www.linkedin.com/in/prashant-chauhan-2b5a0b11/)
 
